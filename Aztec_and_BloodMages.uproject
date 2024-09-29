@@ -16,5 +16,10 @@
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c4b43502026047d89296cd7bffd92828"
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"../../../../../Program Files (x86)/Epic Games/Launcher/Engine/Plugins/TimelineEverywhereUE5.2/TimelineEverywhere",
+		"Content/PlugIns/TimelineEverywhereUE5_2/TimelineEverywhere",
+		"Content/PlugIns/TimelineEverywhereUE5.2"
 	]
 }

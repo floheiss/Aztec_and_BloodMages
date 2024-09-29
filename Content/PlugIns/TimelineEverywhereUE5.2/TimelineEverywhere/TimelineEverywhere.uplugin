@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Timeline Everywhere",
+	"Description": "Adds timelines in some objects like components or widgets.",
+	"Category": "Utilities",
+	"CreatedBy": "Venalith",
+	"CreatedByURL": "https://www.venalith.com/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.com/invite/qCruRUa",
+	"EngineVersion": "5.2.0",
+	"CanContainContent": true,
+	"Installed": true
+}
